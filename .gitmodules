@@ -1,0 +1,24 @@
+[submodule "cppprimer-note"]
+	path = cppprimer-note
+	url = https://github.com/chuenlungwang/cppprimer-note.git
+[submodule "EffectiveModernCppChinese"]
+	path = EffectiveModernCppChinese
+	url = https://github.com/CnTransGroup/EffectiveModernCppChinese.git
+[submodule "Cpp-Primer-5th-Notes-CN"]
+	path = Cpp-Primer-5th-Notes-CN
+	url = https://github.com/czs108/Cpp-Primer-5th-Notes-CN.git
+[submodule "CodingInterviewsNotes"]
+	path = CodingInterviewsNotes
+	url = https://github.com/yzhu798/CodingInterviewsNotes.git
+[submodule "LearningNote"]
+	path = LearningNote
+	url = https://github.com/szza/LearningNote.git
+[submodule "effective-cpp-note"]
+	path = effective-cpp-note
+	url = https://github.com/Tianji95/effective-cpp-note.git
+[submodule "AwesomeCpp"]
+	path = AwesomeCpp
+	url = https://github.com/sanhuohq/AwesomeCpp.git
+[submodule "cpp-notes"]
+	path = cpp-notes
+	url = https://github.com/klc407073648/cpp-notes.git
