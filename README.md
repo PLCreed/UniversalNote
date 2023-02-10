@@ -11,3 +11,8 @@ git submodule update
 ```shell
 git submodule add git@github.com:xxx/my_common.git  
 ```
+
+### Update Submodule
+```shell
+git submodule update --remote
+```
